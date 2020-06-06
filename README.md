@@ -4,6 +4,8 @@
   * doc
   * exam
   * src
+    * mobileApplication_Code
+    * Server_Code
 ## วิธีการติดตั้งใช้งาน software
 1.ทำการติดตั้งแอปพลิเคชันด้วยไฟล์ .apk ที่ชื่อว่า project402.apk โดยแอปพลิเคชันรองรับโทรศัพท์มือถือระบบปฎิบัติการแอนดรอยด์ version ตั้งแต่ Android 4.4 KitKat (API 19) เป็นต้นไป
 2.เปิด Command Prompt เพื่อทำการรัน server บนคอมพิวเตอร์หรือแล็ปท็อป

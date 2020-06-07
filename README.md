@@ -4,6 +4,8 @@
 .
 ├─── doc
 |      ├─── 62ron01.pdf
+|      ├─── 62ron01_abstract_en.txt
+|      └─── 62ron01_abstract_th.txt
 | 
 ├─── exam 
 |      ├─── 62ron01_exam.png

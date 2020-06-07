@@ -1,5 +1,8 @@
 # ProjectCS402
 ## โครงสร้าง Folder โดยรวม
+. 
+├─── * doc
+
   * doc
   * exam
       * 62ron01_exam.png

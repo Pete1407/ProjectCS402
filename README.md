@@ -2,6 +2,9 @@
 ## โครงสร้าง Folder โดยรวม
 .  <br />
 ├─── doc <br/>
+|
+|
+├─── exam <br/>
   * exam
       * 62ron01_exam.png
       * 62ron01_exam.wmv

@@ -1,9 +1,7 @@
 # ProjectCS402
 ## โครงสร้าง Folder โดยรวม
-. 
-├─── * doc
-
-  * doc
+.  <br />
+├─── doc <br/>
   * exam
       * 62ron01_exam.png
       * 62ron01_exam.wmv

@@ -1,8 +1,9 @@
 # ProjectCS402
 ## โครงสร้าง Folder โดยรวม
-* ron1
   * doc
   * exam
+      * 62ron01_exam.png
+      * 62ron01_exam.wmv
   * src
     * mobileApplication_Code
       * AndroidStudioProjects

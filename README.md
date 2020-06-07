@@ -2,7 +2,7 @@
 ## โครงสร้าง Folder โดยรวม
 .<br />
 ├─── doc <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─── 62ron01.pdf <br/>
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;├─── 62ron01.pdf <br/>
 &nbsp;|<br/>
 &nbsp;|<br/>
 ├─── exam <br/>

@@ -2,8 +2,8 @@
 ## โครงสร้าง Folder โดยรวม
 .  <br />
 ├─── doc <br/>
-| <br/>
-| <br/>
+ | <br/>
+ | <br/>
 ├─── exam <br/>
   * exam
       * 62ron01_exam.png

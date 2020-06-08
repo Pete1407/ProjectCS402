@@ -17,7 +17,9 @@
 |      └─── Server_Code
 |              ├─── SpringBoot_Project402
 |              └─── project402.jar
-└─── README.md
+├─── README.md
+└─── demo_video
+      └─── video_for_installation.mp4
  ```
 ## วิธีการติดตั้งใช้งาน software
 ```

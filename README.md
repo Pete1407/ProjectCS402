@@ -19,7 +19,7 @@
 |              └─── project402.jar
 ├─── README.md
 └─── demo_video
-      └─── video_for_installation.mp4
+      └─── 62ron01_demo.mp4
  ```
 ## วิธีการติดตั้งใช้งาน software
 ```
